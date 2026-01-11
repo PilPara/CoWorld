@@ -1,0 +1,11 @@
+Model Information:
+* title:	Farm House
+* source:	https://sketchfab.com/3d-models/farm-house-ee792a21ec6744d9a5488118b1a88750
+* author:	MaX3Dd (https://sketchfab.com/MaX3Dd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Farm House" (https://sketchfab.com/3d-models/farm-house-ee792a21ec6744d9a5488118b1a88750) by MaX3Dd (https://sketchfab.com/MaX3Dd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
