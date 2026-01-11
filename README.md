@@ -1,4 +1,4 @@
-    # CoWorld
+# CoWorld
 
 A real-time 3D graphics engine built with OpenGL, featuring skeletal animation, dynamic lighting, and an interactive sandbox environment.
 
